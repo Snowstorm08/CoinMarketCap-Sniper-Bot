@@ -1,5 +1,3 @@
-
-<p align="center"><a href="https://github.com/Scott-778/coinmarketcap-sniperbot"><img src="https://user-images.githubusercontent.com/91510798/154884209-769e345f-7e1a-46b5-ae64-1dff8752b564.PNG" alt="Logo" height="100"/></a></p>
 <h1 align="center">CoinMarketCap Sniper Bot</h1>
 <p align="center">Sniper bot to buy new tokens listed on CoinMarketCap.</p>
 
@@ -65,5 +63,4 @@ Use at your own risk. Investing in cryptocurrency is risky. This is not financia
 There is a small 0.7% buying fee per buy. This is to help me buy a cup of coffee and support for this project. 
 If you have an issue please don't post screenshots with personal information like seed phrase, telephone number, Telegram code, Telegram two factor password, or Telegram string session. Please keep that information private!
 ## Supporters
-[![Stargazers repo roster for @Scott-778/coinmarketcap-sniper-bot](https://reporoster.com/stars/Scott-778/coinmarketcap-sniper-bot)](https://github.com/Scott-778/coinmarketcap-sniper-bot/stargazers)
 `If you have any question with this project, feel free to reach out.`
